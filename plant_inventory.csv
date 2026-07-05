@@ -1,0 +1,5 @@
+Plant_Name,Location,Date_Acquired,Watering_Freq,Sunlight,Last_Watered,Height,Image_Path,Symptoms
+Pothos,Living Room,2026-07-05,7,Medium,2026-07-05,0.0,,
+Snake Plant,Bedroom,2026-07-05,14,Low,2026-07-05,0.0,,
+Rose,Balcony,2026-07-05,2,High,2026-07-05,0.0,,
+Peace Lily,Office,2026-07-05,5,Medium,2026-07-05,0.0,None,None
