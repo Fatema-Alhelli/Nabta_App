@@ -1,16 +1,15 @@
-# 🌱 Nabta App - Smart Plant Care Companion
+# 🌱 Nabta App - Smart Plant Care & Growth Companion
 
-Nabta App is a lightweight Python web application built using **Streamlit** and **Pandas**. It is designed specifically for plant enthusiasts and beginners to manage, track, and monitor their indoor plants easily.
+Nabta App is an interactive, data-driven web application built using **Python**, **Streamlit**, and **Pandas**. Designed as a personal digital doctor for botany enthusiasts and beginners, the app provides structural inventory management, automated care alerts, dynamic progress tracking, and rule-based symptom diagnosis.
 
-## ✨ Key Features
-* **Add New Plants:** Register plants with location, watering frequency, and sunlight requirements.
-* **Smart Care Alerts:** Uses Boolean Indexing to filter and display plants that need urgent watering.
-* **Flexible Search:** Easily look up plants by name or specific location.
-* **Progress Logging:** Records plant height and updates records dynamically.
-* **Live Camera Capture:** Integrates live device camera to take snapshots of plant progress (`with open` in binary mode).
-* **Rule-Based Diagnosis:** Uses Python Dictionaries to analyze plant symptoms (e.g., Yellow Leaves) and provide instant care solutions.
+---
 
-## 🛠️ Built With
-* Python 3
-* Streamlit (Frontend & Live Camera)
-* Pandas (Data manipulation via `.loc` and Indexing)
+## 📺 Project Showcase & Live Links
+
+### 🎥 Video Demonstration
+Click the link below to watch the comprehensive walkthrough of the application, covering architecture, backend functions, and the live camera interface:
+* [Watch the Nabta App Demo Video](https://youtu.be/M9bYE1n-Uxk?si=CS1ft8-dMCypNC-q)
+
+### 🚀 Live Application Deployment
+Interact with the fully deployed web application directly in your web browser:
+* [Launch Nabta Live App](https://nabtaappbh.streamlit.app/)
