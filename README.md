@@ -12,4 +12,4 @@ Click the link below to watch the comprehensive walkthrough of the application, 
 
 ### 🚀 Live Application Deployment
 Interact with the fully deployed web application directly in your web browser:
-* [Launch Nabta Live App](https://nabtaappbh.streamlit.app/)
+* [Launch Nabta Live App](https://nabtabh.streamlit.app/)
